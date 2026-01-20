@@ -38,7 +38,7 @@ Application to generate and display nutrition facts labels for various food item
 ## 📫 Let's Connect
 - **LinkedIn:** https://linkedin.com/in/arooj-abbas-80110a3a7
 - **Email:** kambohabbas04@gmail.com
-- **Portfolio:** https://naughty000.github.io/
+- **Portfolio:** https://Naughty000.github.io/
 
 ---
 
