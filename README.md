@@ -36,7 +36,7 @@ Application to generate and display nutrition facts labels for various food item
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naughty000&show_icons=true&theme=default)
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Add your profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** 
 - **Email:** kambohabbas04@gmail.com
 - **Portfolio:** Coming soon!
 
